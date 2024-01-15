@@ -1,0 +1,9 @@
+{
+	"name": "twdp203adf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "618c59fb-cf7b-456b-8bfc-b98dda2b1379",
+		"tenantId": "f74b1450-e46a-41df-abee-ebf3621bfd85"
+	}
+}
